@@ -1,0 +1,17 @@
+# food_delivery_app
+
+A small simulation app for premium car rental created with Dart and Flutter.
+
+## Features
+
+-   Firebase database
+-   Bloc state management and dependency injection
+-   Clean architecture
+-   Flutter map
+
+## Pages
+
+<img src="Simulator Screenshot - iPhone 15 Pro - 2024-07-20 at 19.32.36" width="200">
+<img src="Simulator Screenshot - iPhone 15 Pro - 2024-07-20 at 19.32.46" width="200">
+<img src="Simulator Screenshot - iPhone 15 Pro - 2024-07-20 at 19.32.57" width="200">
+<img src="Simulator Screenshot - iPhone 15 Pro - 2024-07-20 at 19.33.07" width="200">

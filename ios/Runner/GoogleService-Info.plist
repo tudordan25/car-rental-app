@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyCn_h5d02jFEOZK4rN1q5wIEJGavdxucfM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>107535344466</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.carRentalApp</string>
+	<key>PROJECT_ID</key>
+	<string>carrentalapp-ee310</string>
+	<key>STORAGE_BUCKET</key>
+	<string>carrentalapp-ee310.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:107535344466:ios:f104f36d1614f4de02908b</string>
+</dict>
+</plist>

@@ -5,7 +5,8 @@ A small simulation app for premium car rental created with Dart and Flutter.
 ## Features
 
 -   Firebase database
--   Bloc state management and dependency injection
+-   Bloc state management
+-   Get_it dependency injection
 -   Clean architecture
 -   Flutter map
 
